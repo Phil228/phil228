@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Philo</h1>
 <p align="left"> <a href="https://twitter.com/phil228_" target="blank"><img src="https://img.shields.io/twitter/follow/phil228_?logo=twitter&style=for-the-badge" alt="phil228_" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [this GitHub page.](this GitHub page.)
+- 👨‍💻 All of my projects are available at this GitHub page.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
